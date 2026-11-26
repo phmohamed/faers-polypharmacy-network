@@ -1,0 +1,207 @@
+drug,partners,joint_reports,eigenvector,reports
+prednisone,31,735,0.418,438
+rituximab,25,585,0.358,194
+methotrexate,19,533,0.296,250
+cyclophosphamide for injection,18,462,0.289,187
+folic acid,22,428,0.253,192
+dexamethasone,26,660,0.198,307
+acetaminophen,46,775,0.19,306
+doxorubicin,5,162,0.165,68
+methylprednisolone,11,219,0.161,127
+leflunomide,14,223,0.156,63
+adalimumab,9,192,0.13,212
+tofacitinib,11,170,0.125,87
+infliximab,7,144,0.124,97
+etanercept,10,161,0.12,66
+diphenhydramine hydrochloride,12,210,0.119,79
+sulfasalazine,11,166,0.118,48
+lenalidomide,12,342,0.118,206
+hydroxychloroquine sulfate,10,145,0.116,49
+ondansetron hydrochloride,24,406,0.111,162
+ergocalciferol,33,627,0.109,344
+hydroxychloroquine,10,144,0.102,63
+mycophenolate mofetil,6,139,0.094,96
+diphenhydramine,11,169,0.093,57
+bortezomib,5,152,0.086,75
+prednisolone,7,128,0.084,129
+pantoprazole,18,302,0.083,197
+acyclovir,11,239,0.083,118
+etoposide,8,134,0.083,61
+potassium chloride,21,323,0.081,100
+daratumumab,6,151,0.074,64
+azathioprine,5,71,0.074,68
+allopurinol,10,188,0.073,131
+gabapentin,24,360,0.064,230
+furosemide,31,619,0.064,245
+aspirin,24,494,0.06,388
+secukinumab,5,63,0.057,40
+polatuzumab vedotin,3,44,0.055,25
+tocilizumab,4,54,0.051,38
+albuterol sulfate,24,444,0.049,259
+gemcitabine hydrochloride,6,101,0.048,62
+vedolizumab,2,61,0.047,74
+cisplatin,6,82,0.047,56
+famotidine,11,162,0.047,114
+vitamin c,12,204,0.047,98
+cytarabine,5,63,0.045,42
+methylprednisolone sodium succinate,4,44,0.041,34
+epinephrine,7,86,0.04,50
+sodium chloride,6,89,0.039,81
+risedronate sodium,3,35,0.039,26
+lansoprazole,7,111,0.037,103
+filgrastim,4,57,0.036,41
+celecoxib,6,78,0.036,78
+fluticasone propionate,11,169,0.036,91
+naproxen,5,61,0.035,60
+hydrocortisone,3,35,0.034,67
+apixaban,13,251,0.034,253
+sulfamethoxazole and trimethoprim,4,61,0.034,64
+bisoprolol fumarate,11,220,0.033,167
+calcium carbonate,5,59,0.032,47
+carfilzomib,3,64,0.032,31
+tacrolimus,4,94,0.031,134
+duloxetine hydrochloride,6,87,0.03,78
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",7,110,0.029,145
+melatonin,9,110,0.029,60
+pomalidomide,3,55,0.028,38
+carboplatin,11,304,0.028,194
+budesonide,5,66,0.027,49
+alendronate sodium,2,24,0.026,38
+metoprolol succinate,8,112,0.026,68
+montelukast sodium,14,207,0.026,97
+prochlorperazine,4,51,0.025,33
+metoprolol tartrate,10,165,0.025,121
+metoclopramide,4,51,0.024,33
+ramipril,9,134,0.024,107
+oxaliplatin,5,110,0.022,98
+hydrochlorothiazide,9,128,0.022,101
+azithromycin,2,32,0.022,46
+doxorubicin hydrochloride,1,22,0.022,29
+magnesium,7,132,0.022,100
+omeprazole,15,215,0.021,289
+omalizumab,3,35,0.021,31
+cyanocobalamin,2,27,0.021,41
+nitroglycerin,7,95,0.021,36
+valacyclovir hydrochloride,3,54,0.021,85
+ibuprofen,4,60,0.02,163
+fludarabine phosphate,1,20,0.02,31
+levofloxacin,2,30,0.02,54
+clopidogrel,6,114,0.02,91
+calcium,3,67,0.02,106
+lisinopril,9,135,0.02,163
+atorvastatin calcium,9,129,0.019,97
+lidocaine,5,55,0.019,55
+pantoprazole sodium,5,66,0.019,96
+amlodipine besylate,7,110,0.018,111
+fish oil,5,84,0.018,66
+aprepitant,2,34,0.017,38
+montelukast,5,69,0.016,65
+morphine sulfate,3,42,0.015,39
+dupilumab,6,90,0.015,123
+methotrexate sodium,1,10,0.015,39
+rosuvastatin,8,151,0.015,163
+enoxaparin sodium,2,22,0.015,45
+loratadine,5,68,0.015,62
+spironolactone,8,112,0.014,124
+paclitaxel,4,147,0.014,107
+upadacitinib,1,13,0.014,75
+trastuzumab,6,95,0.013,52
+oxycodone,3,40,0.013,58
+polyethylene glycol 3350,3,32,0.013,45
+levothyroxine sodium,11,139,0.013,226
+docusate sodium,3,33,0.013,41
+ferrous sulfate,6,66,0.013,53
+carvedilol,5,79,0.012,83
+pregabalin,9,130,0.012,161
+cyclobenzaprine,3,32,0.012,42
+simvastatin,5,81,0.011,89
+oxazepam,1,17,0.011,45
+propofol,2,25,0.011,45
+fentanyl,3,33,0.011,42
+amlodipine,5,106,0.011,244
+lorazepam,4,55,0.01,130
+metformin,17,273,0.01,268
+cyclosporine,1,10,0.01,50
+zinc,3,43,0.01,41
+mesalamine,2,42,0.01,66
+pembrolizumab,4,167,0.01,152
+levetiracetam,1,10,0.009,85
+ezetimibe,3,37,0.009,59
+amoxicillin,1,13,0.009,65
+baclofen,4,41,0.009,50
+tiotropium bromide,5,70,0.009,38
+iron,1,23,0.009,76
+propranolol hydrochloride,2,23,0.009,58
+"piperacillin sodium,tazobactam sodium",1,12,0.008,41
+cetirizine hydrochloride,4,44,0.008,114
+ceftriaxone,2,23,0.008,46
+morphine,1,11,0.007,34
+oxycodone hydrochloride,1,11,0.007,34
+candesartan,1,11,0.007,46
+metronidazole,1,11,0.007,48
+budesonide and formoterol fumarate dihydrate,3,47,0.006,39
+atenolol,4,54,0.006,55
+venlafaxine,1,15,0.006,77
+insulin glargine,4,64,0.005,75
+dapagliflozin,3,45,0.005,48
+empagliflozin,4,54,0.005,60
+risankizumab-rzaa,1,12,0.005,52
+"thiamine hydrochloride, riboflavin 5 phosphate sodium, dexpanthenol and niacinamide",1,14,0.005,31
+rivaroxaban,2,24,0.004,76
+torsemide,2,24,0.004,49
+irbesartan,3,43,0.004,64
+losartan,5,86,0.004,125
+fluticasone propionate and salmeterol xinafoate,2,32,0.004,26
+"fluorouracil cream, 0.5%",1,49,0.004,66
+fluconazole,1,10,0.004,70
+progesterone,2,22,0.004,27
+magnesium oxide,1,11,0.004,30
+estradiol,2,22,0.004,47
+cetirizine,2,22,0.004,48
+alprazolam,1,11,0.004,114
+meloxicam,1,11,0.004,53
+zolpidem tartrate,2,21,0.003,74
+pemetrexed,2,41,0.003,31
+losartan potassium,2,22,0.003,42
+sacubitril and valsartan,1,12,0.003,36
+sitagliptin,2,23,0.003,33
+nebivolol,2,20,0.003,28
+insulin lispro,2,32,0.003,47
+clonazepam,4,44,0.003,91
+venetoclax,2,39,0.003,64
+bevacizumab,4,56,0.003,53
+finasteride,1,10,0.002,34
+atezolizumab,2,34,0.002,38
+capecitabine,3,43,0.002,59
+metformin hydrochloride,1,11,0.002,72
+pertuzumab,3,51,0.002,28
+metoroprolol tartrate,1,10,0.002,31
+mometasone furoate,1,12,0.002,28
+treprostinil,4,71,0.001,60
+quetiapine,4,44,0.001,124
+oral semaglutide,1,17,0.001,37
+lenvatinib,1,34,0.001,45
+docetaxel,2,33,0.001,38
+elagolix,1,10,0.001,26
+diazepam,2,20,0.0,68
+"dextroamphetamine saccharate, amphetamine aspartate, dextroamphetamine sulfate, and amphetamine sulfate",1,40,0.0,57
+bupropion hydrochloride,1,40,0.0,78
+azacitidine,1,26,0.0,36
+citalopram,1,10,0.0,80
+copper,5,189,0.0,712
+fenofibrate,1,11,0.0,36
+escitalopram,1,59,0.0,135
+letrozole,1,24,0.0,60
+macitentan,3,44,0.0,33
+fluoxetine hydrochloride,1,10,0.0,87
+insulin aspart,1,11,0.0,31
+lisdexamfetamine dimesylate,1,16,0.0,27
+fulvestrant,1,16,0.0,29
+nirmatrelvir and ritonavir,1,15,0.0,201
+palbociclib,2,40,0.0,62
+sertraline hydrochloride,1,34,0.0,76
+sildenafil citrate,2,31,0.0,47
+tadalafil,2,32,0.0,37
+rosuvastatin calcium,1,11,0.0,30
+tirzepatide,1,11,0.0,30
+vancomycin hydrochloride,1,12,0.0,40

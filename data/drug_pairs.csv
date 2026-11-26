@@ -1,0 +1,1062 @@
+a,b,together,lift
+dexamethasone,lenalidomide,92,8.1
+prednisone,rituximab,78,5.1
+carboplatin,paclitaxel,77,20.8
+cyclophosphamide for injection,rituximab,74,11.4
+carboplatin,pembrolizumab,72,13.7
+folic acid,methotrexate,68,7.9
+aspirin,ergocalciferol,64,2.7
+adalimumab,methotrexate,63,6.7
+methotrexate,prednisone,63,3.2
+copper,escitalopram,59,3.4
+aspirin,omeprazole,59,2.9
+acetaminophen,aspirin,58,2.7
+cyclophosphamide for injection,doxorubicin,57,25.1
+bortezomib,dexamethasone,54,13.1
+cyclophosphamide for injection,dexamethasone,54,5.3
+albuterol sulfate,prednisone,53,2.6
+apixaban,furosemide,53,4.8
+daratumumab,dexamethasone,51,14.5
+aspirin,metformin,50,2.7
+cyclophosphamide for injection,prednisone,50,3.4
+"fluorouracil cream, 0.5%",oxaliplatin,49,42.4
+mycophenolate mofetil,tacrolimus,49,21.3
+acyclovir,dexamethasone,49,7.6
+aspirin,furosemide,48,2.8
+acetaminophen,rituximab,48,4.5
+furosemide,potassium chloride,47,10.7
+dexamethasone,ondansetron hydrochloride,46,5.2
+acetaminophen,prednisone,46,1.9
+aspirin,lenalidomide,45,3.2
+folic acid,prednisone,45,3.0
+amlodipine,aspirin,44,2.6
+ergocalciferol,prednisone,44,1.6
+ergocalciferol,vitamin c,43,7.1
+albuterol sulfate,copper,43,1.3
+bisoprolol fumarate,furosemide,42,5.7
+paclitaxel,pembrolizumab,42,14.5
+infliximab,prednisone,42,5.5
+doxorubicin,rituximab,41,17.4
+acetaminophen,omeprazole,40,2.5
+calcium,ergocalciferol,40,6.1
+bupropion hydrochloride,copper,40,4.0
+copper,"dextroamphetamine saccharate, amphetamine aspartate, dextroamphetamine sulfate, and amphetamine sulfate",40,5.5
+copper,sertraline,40,2.7
+acyclovir,lenalidomide,39,9.0
+adalimumab,prednisone,39,2.4
+ergocalciferol,magnesium,38,6.2
+metformin,omeprazole,38,2.7
+acetaminophen,methylprednisolone,38,5.5
+acetaminophen,diphenhydramine hydrochloride,38,8.8
+albuterol sulfate,montelukast sodium,38,8.5
+ergocalciferol,omeprazole,38,2.1
+acetaminophen,ergocalciferol,37,2.0
+infliximab,methotrexate,37,8.5
+bortezomib,lenalidomide,37,13.4
+aspirin,rosuvastatin,37,3.3
+methylprednisolone,rituximab,37,8.4
+aspirin,dexamethasone,37,1.7
+copper,spironolactone,37,2.3
+aspirin,gabapentin,36,2.3
+ergocalciferol,gabapentin,36,2.5
+aspirin,clopidogrel,36,5.7
+ergocalciferol,folic acid,35,3.0
+amlodipine,furosemide,35,3.3
+acetaminophen,diphenhydramine,35,11.2
+albuterol sulfate,omeprazole,35,2.6
+albuterol sulfate,furosemide,34,3.0
+lenvatinib,pembrolizumab,34,27.8
+albuterol sulfate,aspirin,34,1.9
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",ergocalciferol,34,3.8
+etanercept,methotrexate,34,11.5
+copper,sertraline hydrochloride,34,3.5
+acetaminophen,furosemide,34,2.5
+acetaminophen,albuterol sulfate,34,2.4
+aspirin,lisinopril,34,3.0
+aspirin,bisoprolol fumarate,34,2.9
+acetaminophen,dexamethasone,34,2.0
+amlodipine,omeprazole,34,2.7
+acetaminophen,allopurinol,33,4.6
+leflunomide,methotrexate,33,11.7
+aspirin,prednisone,33,1.1
+gabapentin,omeprazole,33,2.8
+apixaban,ergocalciferol,32,2.1
+furosemide,omeprazole,32,2.5
+ergocalciferol,levothyroxine sodium,32,2.3
+apixaban,aspirin,32,1.8
+dexamethasone,pantoprazole,32,3.0
+mycophenolate mofetil,prednisone,32,4.3
+acetaminophen,gabapentin,32,2.5
+prednisone,vedolizumab,31,5.4
+doxorubicin,prednisone,31,5.8
+methylprednisolone,prednisone,31,3.1
+furosemide,pantoprazole,31,3.6
+furosemide,spironolactone,31,5.7
+acetaminophen,pantoprazole,30,2.8
+mesalamine,vedolizumab,30,34.4
+acyclovir,aspirin,30,3.7
+metformin,rosuvastatin,30,3.8
+aspirin,pantoprazole,30,2.2
+copper,fluoxetine hydrochloride,30,2.7
+dexamethasone,pomalidomide,30,14.4
+copper,ergocalciferol,30,0.7
+methotrexate,sulfasalazine,30,14.0
+apixaban,bisoprolol fumarate,30,4.0
+acetaminophen,ondansetron hydrochloride,30,3.4
+acetaminophen,lansoprazole,29,5.1
+hydroxychloroquine,methotrexate,29,10.3
+carfilzomib,dexamethasone,29,17.1
+prednisone,tacrolimus,29,2.8
+lenalidomide,omeprazole,29,2.7
+acetaminophen,folic acid,29,2.8
+albuterol sulfate,ergocalciferol,28,1.8
+albuterol sulfate,fluticasone propionate,28,6.6
+prednisone,tofacitinib,28,4.1
+gabapentin,ondansetron hydrochloride,27,4.1
+carboplatin,etoposide,27,12.8
+methotrexate,tofacitinib,27,6.9
+apixaban,gabapentin,27,2.6
+aspirin,folic acid,27,2.0
+acetaminophen,ibuprofen,27,3.0
+pertuzumab,trastuzumab,27,103.8
+dexamethasone,furosemide,27,2.0
+ergocalciferol,fish oil,27,6.7
+carboplatin,gemcitabine hydrochloride,27,12.6
+amlodipine,ergocalciferol,27,1.8
+azacitidine,venetoclax,26,63.2
+copper,levothyroxine sodium,26,0.9
+allopurinol,furosemide,26,4.5
+bortezomib,daratumumab,26,30.3
+acetaminophen,amlodipine,26,1.9
+daratumumab,lenalidomide,26,11.0
+diphenhydramine hydrochloride,rituximab,26,9.5
+apixaban,potassium chloride,26,5.8
+ergocalciferol,lisinopril,26,2.6
+pantoprazole,prednisone,26,1.7
+aspirin,metoprolol tartrate,26,3.1
+cyclophosphamide for injection,prednisolone,26,6.0
+albuterol sulfate,budesonide and formoterol fumarate dihydrate,26,14.4
+acetaminophen,levothyroxine sodium,26,2.1
+cetirizine hydrochloride,copper,26,1.8
+dexamethasone,prednisone,25,1.0
+ergocalciferol,pantoprazole,25,2.1
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",aspirin,25,2.5
+amlodipine besylate,aspirin,25,3.2
+acetaminophen,metformin,25,1.7
+methotrexate,rituximab,25,2.9
+acetaminophen,pregabalin,25,2.8
+adalimumab,folic acid,25,3.4
+amlodipine,losartan,25,4.6
+folic acid,omeprazole,25,2.5
+hydroxychloroquine sulfate,methotrexate,24,11.0
+apixaban,lenalidomide,24,2.6
+ondansetron hydrochloride,pantoprazole,24,4.2
+aspirin,simvastatin,24,3.9
+amlodipine,metformin,24,2.1
+acetaminophen,methotrexate,24,1.8
+amlodipine,prednisone,24,1.3
+folic acid,gabapentin,24,3.0
+amlodipine,apixaban,24,2.2
+ergocalciferol,methotrexate,24,1.6
+albuterol sulfate,amlodipine,24,2.1
+albuterol sulfate,montelukast,24,8.0
+furosemide,prednisone,24,1.3
+ergocalciferol,furosemide,24,1.6
+letrozole,palbociclib,24,36.1
+albuterol sulfate,tiotropium bromide,24,13.6
+albuterol sulfate,gabapentin,23,2.2
+folic acid,pantoprazole,23,3.4
+aspirin,atorvastatin calcium,23,3.4
+omeprazole,ondansetron hydrochloride,23,2.7
+apixaban,metoprolol tartrate,23,4.2
+ergocalciferol,metformin,23,1.4
+aspirin,losartan,23,2.7
+albuterol sulfate,dupilumab,23,4.0
+carvedilol,furosemide,23,6.3
+ergocalciferol,iron,23,4.9
+ergocalciferol,famotidine,23,3.3
+magnesium,omeprazole,23,4.5
+copper,iron,23,2.4
+aprepitant,ondansetron hydrochloride,23,20.9
+aspirin,potassium chloride,23,3.3
+lorazepam,ondansetron hydrochloride,22,5.8
+etanercept,prednisone,22,4.3
+furosemide,gabapentin,22,2.2
+copper,ibuprofen,22,1.1
+cyclophosphamide for injection,etoposide,22,10.8
+apixaban,omeprazole,22,1.7
+empagliflozin,metformin,22,7.7
+albuterol sulfate,pantoprazole,22,2.4
+bortezomib,cyclophosphamide for injection,22,8.8
+cyclophosphamide for injection,doxorubicin hydrochloride,22,22.7
+amlodipine,gabapentin,22,2.2
+albuterol sulfate,budesonide,22,9.7
+aspirin,levothyroxine sodium,22,1.4
+amlodipine,dexamethasone,22,1.6
+prednisolone,rituximab,22,4.9
+acyclovir,allopurinol,22,8.0
+albuterol sulfate,ondansetron hydrochloride,22,2.9
+albuterol sulfate,levothyroxine sodium,22,2.1
+adalimumab,infliximab,22,6.0
+carboplatin,pemetrexed,22,20.5
+azathioprine,prednisone,22,4.1
+ergocalciferol,lenalidomide,22,1.7
+apixaban,pantoprazole,22,2.5
+dexamethasone,filgrastim,21,9.3
+furosemide,levothyroxine sodium,21,2.1
+diphenhydramine hydrochloride,prednisone,21,3.4
+sulfamethoxazole and trimethoprim,valacyclovir hydrochloride,21,21.6
+levothyroxine sodium,omeprazole,21,1.8
+gabapentin,lisinopril,21,3.1
+allopurinol,aspirin,21,2.3
+bisoprolol fumarate,ramipril,21,6.6
+levothyroxine sodium,pregabalin,21,3.2
+aspirin,vitamin c,21,3.1
+acyclovir,omeprazole,21,3.4
+ergocalciferol,pregabalin,21,2.1
+famotidine,gabapentin,21,4.5
+leflunomide,prednisone,21,4.3
+insulin glargine,insulin lispro,21,33.3
+montelukast sodium,prednisone,21,2.8
+ergocalciferol,ondansetron hydrochloride,21,2.1
+prednisone,pregabalin,21,1.7
+adalimumab,ergocalciferol,21,1.6
+hydrochlorothiazide,metformin,21,4.3
+folic acid,rituximab,21,3.2
+aspirin,ondansetron hydrochloride,21,1.9
+ergocalciferol,fluticasone propionate,21,3.8
+dapagliflozin,metformin,21,9.1
+capecitabine,oxaliplatin,20,19.4
+albuterol sulfate,apixaban,20,1.7
+ergocalciferol,rosuvastatin,20,2.0
+albuterol sulfate,lansoprazole,20,4.2
+apixaban,prednisone,20,1.0
+bisoprolol fumarate,omeprazole,20,2.3
+tadalafil,treprostinil,20,50.4
+acetaminophen,famotidine,20,3.2
+metformin,prednisone,20,1.0
+potassium chloride,prednisone,20,2.6
+cisplatin,gemcitabine hydrochloride,20,32.2
+famotidine,prednisone,20,2.2
+gabapentin,prednisone,20,1.1
+ergocalciferol,potassium chloride,20,3.3
+macitentan,treprostinil,20,56.5
+prednisolone,tacrolimus,20,6.5
+amlodipine,rosuvastatin,20,2.8
+dexamethasone,rituximab,20,1.9
+bisoprolol fumarate,pantoprazole,20,3.4
+bisoprolol fumarate,lansoprazole,20,6.5
+allopurinol,pantoprazole,20,4.3
+atorvastatin calcium,furosemide,20,4.7
+cyclophosphamide for injection,fludarabine phosphate,20,19.3
+amlodipine,ramipril,20,4.3
+dexamethasone,ergocalciferol,20,1.1
+dexamethasone,omeprazole,20,1.3
+diphenhydramine hydrochloride,methylprednisolone,20,11.2
+mycophenolate mofetil,prednisolone,19,8.6
+polatuzumab vedotin,rituximab,19,21.9
+etoposide,rituximab,19,9.0
+docetaxel,trastuzumab,19,53.8
+ibuprofen,prednisone,19,1.5
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",prednisone,19,1.7
+metformin,simvastatin,19,4.5
+methotrexate,secukinumab,19,10.6
+copper,valacyclovir hydrochloride,19,1.8
+carboplatin,dexamethasone,19,1.8
+copper,omeprazole,19,0.5
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",diphenhydramine hydrochloride,19,9.3
+gabapentin,metformin,19,1.7
+allopurinol,dexamethasone,19,2.6
+duloxetine hydrochloride,gabapentin,19,5.9
+aspirin,calcium,19,2.6
+ergocalciferol,lorazepam,19,2.4
+albuterol sulfate,azithromycin,19,8.9
+ergocalciferol,montelukast sodium,19,3.2
+acetaminophen,acyclovir,19,2.9
+acetaminophen,sodium chloride,19,4.3
+amlodipine,folic acid,19,2.3
+lisinopril,omeprazole,19,2.3
+gabapentin,pantoprazole,19,2.3
+aspirin,magnesium,19,2.7
+aspirin,famotidine,19,2.4
+sildenafil citrate,treprostinil,19,37.7
+pembrolizumab,pemetrexed,19,22.6
+aspirin,fluticasone propionate,18,2.9
+acetaminophen,cetirizine hydrochloride,18,2.9
+ergocalciferol,loratadine,18,4.7
+lenalidomide,ondansetron hydrochloride,18,3.0
+acetaminophen,hydrochlorothiazide,18,3.3
+aspirin,pantoprazole sodium,18,2.7
+gabapentin,oxycodone,18,7.6
+magnesium,vitamin c,18,10.3
+ibuprofen,omeprazole,18,2.1
+levothyroxine sodium,nirmatrelvir and ritonavir,18,2.2
+doxorubicin,prednisolone,18,11.5
+levothyroxine sodium,prednisone,18,1.0
+aspirin,lansoprazole,18,2.5
+aspirin,metoprolol succinate,18,3.8
+diphenhydramine,sodium chloride,18,21.8
+adalimumab,etanercept,18,7.2
+methotrexate,tocilizumab,18,10.6
+aspirin,ibuprofen,18,1.6
+prednisone,sulfasalazine,18,4.8
+carfilzomib,lenalidomide,18,15.8
+hydroxychloroquine sulfate,prednisone,18,4.7
+bisoprolol fumarate,pregabalin,18,3.7
+ergocalciferol,metoprolol succinate,18,4.3
+alprazolam,ergocalciferol,18,2.6
+acetaminophen,morphine sulfate,18,8.4
+furosemide,insulin glargine,18,5.5
+allopurinol,apixaban,18,3.0
+bisoprolol fumarate,clopidogrel,18,6.6
+apixaban,clopidogrel,18,4.4
+aspirin,ramipril,18,2.4
+dexamethasone,potassium chloride,18,3.3
+furosemide,metoprolol tartrate,18,3.4
+albuterol sulfate,fluticasone propionate and salmeterol xinafoate,18,15.0
+dupilumab,montelukast sodium,18,8.4
+cetirizine hydrochloride,ergocalciferol,18,2.6
+acetaminophen,vitamin c,17,3.2
+acetaminophen,levofloxacin,17,5.8
+acyclovir,ondansetron hydrochloride,17,5.0
+aspirin,pregabalin,17,1.5
+aspirin,hydrochlorothiazide,17,2.4
+albuterol sulfate,folic acid,17,1.9
+furosemide,pantoprazole sodium,17,4.0
+copper,metformin,17,0.5
+albuterol sulfate,vitamin c,17,3.7
+pantoprazole,pregabalin,17,3.0
+amlodipine,pantoprazole,17,2.0
+atezolizumab,carboplatin,17,12.9
+atezolizumab,bevacizumab,17,47.2
+metformin,ramipril,17,3.3
+bisoprolol fumarate,prednisone,17,1.3
+gabapentin,potassium chloride,17,4.1
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",gabapentin,17,2.9
+albuterol sulfate,metformin,17,1.4
+hydroxychloroquine,prednisone,17,3.4
+amlodipine,levothyroxine sodium,17,1.7
+apixaban,dexamethasone,17,1.2
+metformin,oral semaglutide,17,9.6
+amlodipine besylate,atorvastatin calcium,17,8.8
+furosemide,ramipril,17,3.6
+allopurinol,prednisone,17,1.7
+acetaminophen,oxazepam,17,6.9
+carboplatin,ondansetron hydrochloride,17,3.0
+cyanocobalamin,ergocalciferol,17,6.7
+irbesartan,metformin,17,5.5
+ergocalciferol,metoprolol tartrate,17,2.3
+metoprolol tartrate,rosuvastatin,17,4.8
+fluticasone propionate,montelukast sodium,17,10.8
+furosemide,rosuvastatin,17,2.4
+dupilumab,prednisone,17,1.8
+metoprolol tartrate,pantoprazole,17,4.0
+dexamethasone,valacyclovir hydrochloride,17,3.6
+gabapentin,lenalidomide,17,2.0
+cyclophosphamide for injection,lenalidomide,17,2.5
+albuterol sulfate,lisinopril,17,2.3
+ergocalciferol,zinc,17,6.7
+aspirin,fish oil,17,3.7
+dexamethasone,levothyroxine sodium,17,1.4
+carfilzomib,daratumumab,17,48.0
+leflunomide,sulfasalazine,17,31.5
+paclitaxel,trastuzumab,17,17.1
+losartan,metformin,16,2.7
+ergocalciferol,tofacitinib,16,3.0
+dexamethasone,lorazepam,16,2.2
+acetaminophen,apixaban,16,1.2
+metoclopramide,ondansetron hydrochloride,16,16.8
+apixaban,carvedilol,16,4.3
+dexamethasone,famotidine,16,2.6
+albuterol sulfate,famotidine,16,3.0
+lenalidomide,valacyclovir hydrochloride,16,5.1
+duloxetine hydrochloride,metformin,16,4.3
+calcium,prednisone,16,1.9
+aspirin,loratadine,16,3.7
+ergocalciferol,leflunomide,16,4.1
+furosemide,lenalidomide,16,1.8
+celecoxib,ergocalciferol,16,3.3
+celecoxib,methotrexate,16,4.6
+folic acid,hydroxychloroquine,16,7.4
+calcium carbonate,ergocalciferol,16,5.5
+albuterol sulfate,nitroglycerin,16,9.6
+folic acid,leflunomide,16,7.4
+omeprazole,simvastatin,16,3.5
+aspirin,methotrexate,16,0.9
+ergocalciferol,ibuprofen,16,1.6
+amlodipine besylate,furosemide,16,3.3
+lenalidomide,rituximab,16,2.2
+copper,losartan,16,1.0
+adalimumab,lisinopril,16,2.6
+acyclovir,ergocalciferol,16,2.2
+dupilumab,fluticasone propionate,16,8.0
+copper,lisdexamfetamine dimesylate,16,4.7
+aspirin,quetiapine,16,1.9
+methylprednisolone,mycophenolate mofetil,16,7.3
+fulvestrant,palbociclib,16,49.8
+esomeprazole,prednisone,16,2.4
+gabapentin,methotrexate,16,1.6
+ondansetron hydrochloride,prednisone,16,1.3
+losartan,metoprolol tartrate,16,5.9
+apixaban,metformin,16,1.3
+albuterol sulfate,rosuvastatin,16,2.1
+allopurinol,ergocalciferol,16,2.0
+bupropion,copper,16,2.2
+allopurinol,rituximab,16,3.5
+apixaban,folic acid,16,1.8
+ergocalciferol,hydrochlorothiazide,16,2.6
+lansoprazole,prednisone,16,2.0
+cyclophosphamide for injection,daratumumab,16,7.5
+fish oil,magnesium,16,13.6
+vitamin c,zinc,16,22.3
+acetaminophen,calcium,16,2.8
+acetaminophen,pantoprazole sodium,16,3.0
+aspirin,nitroglycerin,16,6.4
+apixaban,lisinopril,16,2.2
+atenolol,omeprazole,16,5.6
+cytarabine,rituximab,16,11.0
+aspirin,atenolol,15,3.9
+losartan,nirmatrelvir and ritonavir,15,3.3
+amlodipine besylate,omeprazole,15,2.6
+adalimumab,omeprazole,15,1.4
+allopurinol,bisoprolol fumarate,15,3.8
+methotrexate,pantoprazole,15,1.7
+bisoprolol fumarate,spironolactone,15,4.1
+ergocalciferol,pantoprazole sodium,15,2.5
+albuterol sulfate,amlodipine besylate,15,2.9
+hydrochlorothiazide,losartan,15,6.6
+doxorubicin,etoposide,15,20.2
+folic acid,ondansetron hydrochloride,15,2.7
+omeprazole,potassium chloride,15,2.9
+diphenhydramine,prednisone,15,3.4
+diphenhydramine,methylprednisolone,15,11.6
+acetaminophen,quetiapine,15,2.2
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",omeprazole,15,2.0
+acyclovir,gabapentin,15,3.1
+hydroxychloroquine sulfate,leflunomide,15,27.2
+amlodipine besylate,prednisone,15,1.7
+etanercept,leflunomide,15,20.2
+omeprazole,rosuvastatin,15,1.8
+alprazolam,copper,15,1.0
+oxaliplatin,rituximab,15,4.4
+gemcitabine hydrochloride,rituximab,15,7.0
+clopidogrel,pantoprazole,15,4.7
+acetaminophen,potassium chloride,15,2.7
+albuterol sulfate,pregabalin,15,2.0
+carvedilol,gabapentin,15,4.4
+acetaminophen,ramipril,15,2.6
+acetaminophen,nitroglycerin,15,7.6
+acyclovir,amlodipine,15,2.9
+amlodipine,lisinopril,15,2.1
+albuterol sulfate,hydrochlorothiazide,15,3.2
+carvedilol,losartan,15,8.1
+diphenhydramine,epinephrine,15,29.5
+daratumumab,pomalidomide,15,34.5
+omeprazole,prednisone,15,0.7
+atorvastatin calcium,omeprazole,15,3.0
+apixaban,metoprolol succinate,15,4.9
+ergocalciferol,venlafaxine,15,3.2
+aspirin,rituximab,15,1.1
+gabapentin,montelukast sodium,15,3.8
+fluticasone propionate,omeprazole,15,3.2
+amlodipine,irbesartan,15,5.4
+ezetimibe,rosuvastatin,15,8.7
+ondansetron hydrochloride,prochlorperazine,15,15.7
+ergocalciferol,rituximab,15,1.3
+diphenhydramine hydrochloride,ergocalciferol,15,3.1
+adalimumab,leflunomide,15,6.3
+duloxetine hydrochloride,pregabalin,15,6.7
+amlodipine besylate,hydrochlorothiazide,15,7.5
+azathioprine,rituximab,15,6.4
+acyclovir,furosemide,15,2.9
+adalimumab,sulfasalazine,15,8.3
+citalopram,copper,15,1.5
+copper,lamotrigine,15,1.9
+dexamethasone,propofol,15,6.1
+rituximab,sulfamethoxazole and trimethoprim,15,6.8
+prednisone,rosuvastatin,15,1.2
+gabapentin,metoprolol tartrate,15,3.0
+ramipril,rosuvastatin,15,4.8
+calcium,magnesium,15,7.9
+nirmatrelvir and ritonavir,rosuvastatin,14,2.4
+cetirizine hydrochloride,prednisone,14,1.6
+montelukast,prednisone,14,2.8
+dapagliflozin,furosemide,14,6.7
+apixaban,rosuvastatin,14,1.9
+methylprednisolone,tacrolimus,14,4.6
+cisplatin,cyclophosphamide for injection,14,7.5
+cyclophosphamide for injection,ondansetron hydrochloride,14,2.6
+cyclophosphamide for injection,polatuzumab vedotin,14,16.8
+ergocalciferol,escitalopram,14,1.7
+pantoprazole,rituximab,14,2.1
+furosemide,metformin,14,1.2
+alprazolam,aspirin,14,1.8
+levothyroxine sodium,montelukast sodium,14,3.6
+acetaminophen,esomeprazole,14,2.9
+fluticasone propionate,prednisone,14,2.0
+copper,fluticasone propionate,14,1.2
+famotidine,potassium chloride,14,6.9
+ergocalciferol,melatonin,14,3.8
+acetaminophen,lorazepam,14,2.0
+acetaminophen,magnesium,14,2.6
+methotrexate,methylprednisolone,14,2.5
+mesalamine,prednisone,14,2.7
+hydrocortisone,prednisone,14,2.7
+clonazepam,ergocalciferol,14,2.5
+acetaminophen,lenalidomide,14,1.2
+spironolactone,torsemide,14,12.9
+aspirin,methylprednisolone,14,1.6
+gabapentin,ibuprofen,14,2.1
+fluticasone propionate and salmeterol xinafoate,montelukast sodium,14,31.1
+epinephrine,sodium chloride,14,19.3
+lansoprazole,metformin,14,2.8
+lisinopril,metformin,14,1.8
+bisoprolol fumarate,metformin,14,1.8
+filgrastim,ondansetron hydrochloride,14,11.8
+bevacizumab,carboplatin,14,7.6
+iron,prednisone,14,2.4
+folic acid,tofacitinib,14,4.7
+etanercept,folic acid,14,6.2
+dexamethasone,pantoprazole sodium,14,2.7
+dexamethasone,etoposide,14,4.2
+ibuprofen,metformin,14,1.8
+allopurinol,omeprazole,14,2.1
+hydrochlorothiazide,omeprazole,14,2.7
+albuterol sulfate,potassium chloride,14,3.0
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",vitamin c,14,5.5
+duloxetine hydrochloride,folic acid,14,5.2
+aspirin,insulin glargine,14,2.7
+ergocalciferol,"thiamine hydrochloride, riboflavin 5 phosphate sodium, dexpanthenol and niacinamide",14,7.3
+insulin glargine,metformin,14,3.9
+aspirin,carvedilol,14,2.4
+leflunomide,rituximab,14,6.4
+carboplatin,rituximab,14,2.1
+hydroxychloroquine sulfate,sulfasalazine,14,33.3
+hydroxychloroquine sulfate,tofacitinib,14,18.4
+hydroxychloroquine,leflunomide,14,19.7
+nitroglycerin,omeprazole,14,7.5
+clopidogrel,furosemide,14,3.5
+folic acid,sulfasalazine,14,8.5
+pregabalin,rosuvastatin,14,3.0
+apixaban,spironolactone,14,2.5
+adalimumab,gabapentin,14,1.6
+pantoprazole,prochlorperazine,14,12.1
+docetaxel,pertuzumab,14,73.6
+furosemide,lisinopril,14,2.0
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",amlodipine,14,2.2
+acetaminophen,"acetaminophen, guaifenesin, and phenylephrine hydrochloride",14,1.8
+dupilumab,ergocalciferol,14,1.9
+diphenhydramine,rituximab,14,7.1
+amlodipine besylate,ergocalciferol,14,2.1
+prednisone,tocilizumab,14,4.7
+famotidine,fluticasone propionate,14,7.6
+acetaminophen,cyclophosphamide for injection,13,1.3
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",furosemide,13,2.0
+allopurinol,venetoclax,13,8.7
+lidocaine,sodium chloride,13,16.3
+clonazepam,copper,13,1.1
+copper,famotidine,13,0.9
+copper,gabapentin,13,0.4
+famotidine,ondansetron hydrochloride,13,3.9
+cyclophosphamide for injection,gemcitabine hydrochloride,13,6.3
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",folic acid,13,2.6
+dexamethasone,levofloxacin,13,4.4
+dexamethasone,pregabalin,13,1.5
+amlodipine besylate,gabapentin,13,2.9
+gemcitabine hydrochloride,oxaliplatin,13,12.0
+cyclophosphamide for injection,methylprednisolone,13,3.1
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",albuterol sulfate,13,1.9
+acetaminophen,leflunomide,13,3.8
+methotrexate,prednisolone,13,2.3
+acetaminophen,metoclopramide,13,7.2
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",ibuprofen,13,3.1
+cyclophosphamide for injection,sodium chloride,13,4.8
+albuterol sulfate,omalizumab,13,9.1
+celecoxib,gabapentin,13,4.1
+furosemide,ibuprofen,13,1.8
+budesonide,prednisone,13,3.4
+furosemide,tiotropium bromide,13,7.8
+cytarabine,etoposide,13,28.4
+fluticasone propionate,gabapentin,13,3.5
+folic acid,hydroxychloroquine sulfate,13,7.7
+acetaminophen,amoxicillin,13,3.7
+acetaminophen,propranolol hydrochloride,13,4.1
+levothyroxine sodium,pantoprazole,13,1.6
+amlodipine besylate,lisinopril,13,4.0
+amlodipine besylate,lenalidomide,13,3.2
+acetaminophen,duloxetine hydrochloride,13,3.0
+aspirin,melatonin,13,3.1
+acetaminophen,risedronate sodium,13,9.1
+atenolol,metformin,13,4.9
+mycophenolate mofetil,rituximab,13,3.9
+allopurinol,potassium chloride,13,5.6
+ergocalciferol,simvastatin,13,2.4
+gabapentin,levothyroxine sodium,13,1.4
+diphenhydramine,diphenhydramine hydrochloride,13,16.2
+acetaminophen,docusate sodium,13,5.8
+aspirin,duloxetine hydrochloride,13,2.4
+gabapentin,melatonin,13,5.3
+methylprednisolone,prednisolone,13,4.4
+acyclovir,potassium chloride,13,6.2
+acetaminophen,hydrocortisone,13,3.5
+prednisone,upadacitinib,13,2.2
+furosemide,rivaroxaban,13,3.9
+loratadine,omeprazole,13,4.1
+azathioprine,methotrexate,13,4.3
+azithromycin,prednisone,13,3.6
+methotrexate,upadacitinib,13,3.9
+allopurinol,folic acid,13,2.9
+allopurinol,lenalidomide,13,2.7
+ergocalciferol,montelukast,13,3.3
+acetaminophen,methylprednisolone sodium succinate,13,7.0
+bevacizumab,oxaliplatin,13,14.0
+allopurinol,gabapentin,13,2.4
+lisinopril,prednisone,13,1.0
+furosemide,pregabalin,13,1.8
+hydrochlorothiazide,prednisone,13,1.6
+albuterol sulfate,dexamethasone,13,0.9
+lisinopril,metoprolol tartrate,13,3.7
+acetaminophen,melatonin,13,4.0
+amlodipine,ondansetron hydrochloride,13,1.8
+melatonin,omeprazole,13,4.2
+metoprolol succinate,omeprazole,13,3.7
+methotrexate,naproxen,13,4.9
+metformin,methotrexate,13,1.1
+naproxen,omeprazole,13,4.2
+furosemide,metoprolol succinate,13,4.4
+clopidogrel,rosuvastatin,13,4.9
+fish oil,vitamin c,13,11.2
+lenalidomide,sulfamethoxazole and trimethoprim,13,5.5
+ferrous sulfate,furosemide,13,5.6
+albuterol sulfate,spironolactone,13,2.3
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",pantoprazole,13,2.5
+dexamethasone,methotrexate,13,0.9
+carboplatin,cyclophosphamide for injection,13,2.0
+cisplatin,rituximab,13,6.7
+acyclovir,bortezomib,13,8.2
+allopurinol,metformin,13,2.1
+lenalidomide,metoprolol succinate,13,5.2
+levothyroxine sodium,rituximab,13,1.7
+dexamethasone,gemcitabine hydrochloride,13,3.8
+sulfasalazine,tofacitinib,13,17.4
+leflunomide,tofacitinib,13,13.3
+levothyroxine sodium,metformin,13,1.2
+apixaban,pregabalin,13,1.8
+aspirin,escitalopram,13,1.4
+cyclophosphamide for injection,tacrolimus,13,2.9
+cisplatin,etoposide,13,21.3
+ergocalciferol,etanercept,12,3.0
+fluticasone propionate,montelukast,12,11.4
+fluticasone propionate,ondansetron hydrochloride,12,4.6
+epinephrine,prednisone,12,3.1
+estradiol,progesterone,12,52.9
+albuterol sulfate,bisoprolol fumarate,12,1.6
+hydroxychloroquine,tofacitinib,12,12.3
+gabapentin,magnesium,12,2.9
+folic acid,pregabalin,12,2.2
+amlodipine,lenalidomide,12,1.3
+hydroxychloroquine sulfate,rituximab,12,7.1
+dexamethasone,metoclopramide,12,6.6
+dexamethasone,paclitaxel,12,2.0
+allopurinol,ondansetron hydrochloride,12,3.2
+furosemide,ondansetron hydrochloride,12,1.7
+levothyroxine sodium,morphine sulfate,12,7.6
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",levothyroxine sodium,12,2.0
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",ondansetron hydrochloride,12,2.9
+albuterol sulfate,allopurinol,12,2.0
+albuterol sulfate,morphine sulfate,12,6.6
+pregabalin,quetiapine,12,3.4
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",copper,12,0.7
+hydrochlorothiazide,pantoprazole,12,3.4
+ergocalciferol,losartan,12,1.6
+furosemide,nitroglycerin,12,7.6
+diphenhydramine,ondansetron hydrochloride,12,7.3
+ceftriaxone,vancomycin hydrochloride,12,36.5
+acetaminophen,"piperacillin sodium,tazobactam sodium",12,5.4
+empagliflozin,spironolactone,12,9.0
+losartan,prednisone,12,1.2
+albuterol sulfate,mometasone furoate,12,9.3
+calcium,pantoprazole,12,3.2
+prednisone,vitamin c,12,1.6
+famotidine,furosemide,12,2.4
+gabapentin,naproxen,12,4.9
+melatonin,vitamin c,12,11.4
+atorvastatin calcium,lenalidomide,12,3.4
+pantoprazole sodium,prednisone,12,1.6
+levothyroxine sodium,magnesium,12,3.0
+acetaminophen,tocilizumab,12,5.8
+apixaban,levothyroxine sodium,12,1.2
+furosemide,lansoprazole,12,2.7
+ondansetron hydrochloride,potassium chloride,12,4.1
+ondansetron hydrochloride,sodium chloride,12,5.1
+pantoprazole,potassium chloride,12,3.4
+lisinopril,metoprolol succinate,12,6.1
+levothyroxine sodium,ondansetron hydrochloride,12,1.8
+alendronate sodium,prednisone,12,4.0
+aspirin,diphenhydramine hydrochloride,12,2.2
+aspirin,empagliflozin,12,2.9
+acetaminophen,alendronate sodium,12,5.8
+levothyroxine sodium,tiotropium bromide,12,7.8
+furosemide,losartan potassium,12,6.5
+omalizumab,prednisone,12,4.9
+lorazepam,pregabalin,12,3.2
+fentanyl,gabapentin,12,7.0
+ferrous sulfate,gabapentin,12,5.5
+celecoxib,omeprazole,12,3.0
+gabapentin,vitamin c,12,3.0
+aspirin,spironolactone,12,1.4
+aspirin,celecoxib,12,2.2
+hydrocortisone,methotrexate,12,4.0
+adalimumab,amlodipine,12,1.3
+cetirizine hydrochloride,dupilumab,12,4.8
+cytarabine,dexamethasone,12,5.2
+dexamethasone,sulfamethoxazole and trimethoprim,12,3.4
+methylprednisolone,ondansetron hydrochloride,12,3.3
+hydrochlorothiazide,lisinopril,12,4.1
+acetaminophen,oxycodone,12,3.8
+etanercept,hydroxychloroquine,12,16.2
+infliximab,mesalamine,12,10.5
+albuterol sulfate,methotrexate,12,1.0
+adalimumab,secukinumab,12,7.9
+adalimumab,tofacitinib,12,3.6
+etanercept,hydroxychloroquine sulfate,12,20.8
+methylprednisolone,pantoprazole,12,2.7
+calcium,omeprazole,12,2.2
+folic acid,methylprednisolone,12,2.8
+ergocalciferol,risankizumab-rzaa,12,3.8
+diphenhydramine hydrochloride,epinephrine,12,17.0
+epinephrine,lidocaine,12,24.4
+cetirizine hydrochloride,diphenhydramine hydrochloride,12,7.5
+naproxen,prednisone,12,2.6
+acetaminophen,prednisolone,12,1.7
+folic acid,levothyroxine sodium,12,1.5
+folic acid,metformin,12,1.3
+folic acid,naproxen,12,5.8
+hydroxychloroquine,sulfasalazine,12,22.2
+folic acid,potassium chloride,12,3.5
+albuterol sulfate,ibuprofen,12,1.6
+amlodipine,hydrochlorothiazide,12,2.7
+amlodipine,metoprolol tartrate,12,2.3
+metformin,nirmatrelvir and ritonavir,12,1.2
+ergocalciferol,sulfasalazine,12,4.1
+albuterol sulfate,diphenhydramine hydrochloride,12,3.3
+calcium,levothyroxine sodium,12,2.8
+acetaminophen,lisinopril,12,1.3
+bevacizumab,capecitabine,12,21.5
+metformin,sitagliptin,12,7.6
+macitentan,sildenafil citrate,12,43.3
+apixaban,treprostinil,12,4.4
+pantoprazole,ramipril,12,3.2
+acetaminophen,rosuvastatin,12,1.3
+furosemide,sacubitril and valsartan,12,7.6
+atorvastatin calcium,levothyroxine sodium,12,3.1
+albuterol sulfate,losartan,12,2.1
+clonazepam,gabapentin,12,3.2
+gabapentin,simvastatin,12,3.3
+adalimumab,aspirin,12,0.8
+levothyroxine sodium,pantoprazole sodium,12,3.1
+lisinopril,nirmatrelvir and ritonavir,12,2.0
+nirmatrelvir and ritonavir,omeprazole,12,1.2
+albuterol sulfate,sertraline,12,2.2
+hydroxychloroquine,hydroxychloroquine sulfate,12,21.8
+macitentan,tadalafil,12,55.0
+cyclophosphamide for injection,methotrexate,12,1.4
+prednisone,sulfamethoxazole and trimethoprim,12,2.4
+copper,meloxicam,11,1.6
+ibuprofen,lisinopril,11,2.3
+bisoprolol fumarate,rivaroxaban,11,4.9
+lorazepam,prednisone,11,1.1
+ondansetron hydrochloride,paclitaxel,11,3.6
+ergocalciferol,meloxicam,11,3.4
+etanercept,sulfasalazine,11,19.4
+etanercept,tofacitinib,11,10.7
+leflunomide,secukinumab,11,24.4
+prednisone,risedronate sodium,11,5.4
+calcium,furosemide,11,2.4
+calcium,metformin,11,2.2
+diphenhydramine hydrochloride,levothyroxine sodium,11,3.4
+diphenhydramine hydrochloride,methylprednisolone sodium succinate,11,22.9
+cyclophosphamide for injection,trastuzumab,11,6.3
+aspirin,insulin lispro,11,3.4
+ergocalciferol,hydroxychloroquine,11,2.8
+acetaminophen,hydroxychloroquine sulfate,11,4.1
+acetaminophen,cyclobenzaprine,11,4.8
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",rituximab,11,2.2
+celecoxib,levothyroxine sodium,11,3.5
+acetaminophen,infliximab,11,2.1
+cyclobenzaprine,gabapentin,11,6.4
+furosemide,zolpidem tartrate,11,3.4
+lansoprazole,ramipril,11,5.6
+melatonin,potassium chloride,11,10.3
+gabapentin,pantoprazole sodium,11,2.8
+risedronate sodium,rituximab,11,12.2
+capecitabine,trastuzumab,11,20.1
+cetirizine,fluticasone propionate,11,14.1
+folic acid,furosemide,11,1.3
+acetaminophen,epinephrine,11,4.0
+metformin,pregabalin,11,1.4
+fish oil,omeprazole,11,3.2
+ezetimibe,metformin,11,3.9
+gabapentin,lorazepam,11,2.1
+fluconazole,prednisone,11,2.0
+levothyroxine sodium,methotrexate,11,1.1
+albuterol sulfate,simvastatin,11,2.7
+gabapentin,hydrochlorothiazide,11,2.7
+gabapentin,loratadine,11,4.3
+albuterol sulfate,lorazepam,11,1.8
+amlodipine,potassium chloride,11,2.5
+aspirin,lorazepam,11,1.2
+ibuprofen,ondansetron hydrochloride,11,2.3
+lorazepam,omeprazole,11,1.6
+metoprolol tartrate,omeprazole,11,1.8
+metformin,tirzepatide,11,7.7
+insulin aspart,insulin glargine,11,26.5
+furosemide,melatonin,11,4.2
+budesonide and formoterol fumarate dihydrate,montelukast sodium,11,16.3
+duloxetine hydrochloride,ergocalciferol,11,2.3
+dexamethasone,enoxaparin sodium,11,4.5
+dexamethasone,fentanyl,11,4.8
+carboplatin,cisplatin,11,5.7
+polatuzumab vedotin,prednisone,11,5.6
+diphenhydramine,famotidine,11,9.5
+methotrexate,mycophenolate mofetil,11,2.6
+ergocalciferol,ferrous sulfate,11,3.4
+azathioprine,infliximab,11,9.3
+levothyroxine sodium,nitroglycerin,11,7.6
+clonazepam,quetiapine,11,5.5
+dupilumab,tacrolimus,11,3.7
+adalimumab,rituximab,11,1.5
+folic acid,ramipril,11,3.0
+aspirin,rivaroxaban,11,2.1
+albuterol sulfate,cetirizine hydrochloride,11,2.1
+methotrexate,pregabalin,11,1.5
+amlodipine besylate,metformin,11,2.1
+aspirin,cetirizine,11,3.3
+metformin,nitroglycerin,11,6.4
+ceftriaxone,dexamethasone,11,4.4
+ergocalciferol,methylprednisolone,11,1.4
+acetaminophen,metronidazole,11,4.2
+acetaminophen,naproxen,11,3.4
+baclofen,pantoprazole,11,6.3
+dexamethasone,prochlorperazine,11,6.1
+acetaminophen,enoxaparin sodium,11,4.5
+acyclovir,cyclophosphamide for injection,11,2.8
+cyclophosphamide for injection,cytarabine,11,7.8
+acetaminophen,candesartan,11,4.4
+acetaminophen,polyethylene glycol 3350,11,4.5
+acetaminophen,prochlorperazine,11,6.1
+acetaminophen,spironolactone,11,1.6
+albuterol sulfate,diphenhydramine,11,4.2
+acetaminophen,celecoxib,11,2.6
+duloxetine hydrochloride,omeprazole,11,2.7
+dexamethasone,oxaliplatin,11,2.0
+methotrexate,omeprazole,11,0.9
+ergocalciferol,magnesium oxide,11,6.0
+cetirizine hydrochloride,furosemide,11,2.2
+ergocalciferol,metformin hydrochloride,11,2.5
+furosemide,metformin hydrochloride,11,3.5
+lenalidomide,lisinopril,11,1.8
+levothyroxine sodium,lisinopril,11,1.7
+furosemide,simvastatin,11,2.8
+amlodipine,calcium carbonate,11,5.4
+aspirin,calcium carbonate,11,3.4
+aspirin,sitagliptin,11,4.8
+calcium carbonate,prednisone,11,3.0
+levothyroxine sodium,rosuvastatin calcium,11,9.1
+acetaminophen,oxycodone hydrochloride,11,5.9
+aspirin,ezetimibe,11,2.7
+etoposide,methotrexate,11,4.0
+losartan,omeprazole,11,1.7
+amlodipine besylate,pantoprazole sodium,11,5.8
+apixaban,atorvastatin calcium,11,2.5
+lorazepam,quetiapine,11,3.8
+citalopram,ergocalciferol,11,2.2
+potassium chloride,vitamin c,11,6.3
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",adalimumab,11,2.0
+cisplatin,dexamethasone,11,3.6
+cytarabine,filgrastim,11,35.8
+acetaminophen,morphine,11,5.9
+omeprazole,vitamin c,11,2.2
+gabapentin,quetiapine,11,2.2
+omeprazole,quetiapine,11,1.7
+lorazepam,pantoprazole,11,2.4
+clonazepam,pregabalin,11,4.2
+allopurinol,amlodipine,11,1.9
+prednisone,secukinumab,11,3.5
+folic acid,lansoprazole,11,3.1
+montelukast sodium,tiotropium bromide,11,16.7
+filgrastim,rituximab,11,7.7
+levothyroxine sodium,rosuvastatin,11,1.7
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",apixaban,11,1.7
+amlodipine,bisoprolol fumarate,11,1.5
+aspirin,zolpidem tartrate,11,2.1
+acetaminophen,ezetimibe,11,3.4
+aspirin,budesonide,11,3.2
+oxycodone,prednisone,11,2.4
+fenofibrate,metformin,11,6.4
+adalimumab,pantoprazole,11,1.5
+aspirin,nirmatrelvir and ritonavir,11,0.8
+gabapentin,nirmatrelvir and ritonavir,11,1.3
+furosemide,irbesartan,11,3.9
+aprepitant,dexamethasone,11,5.3
+alprazolam,ondansetron hydrochloride,11,3.3
+furosemide,polyethylene glycol 3350,11,5.6
+copper,propranolol hydrochloride,10,1.4
+pantoprazole,polyethylene glycol 3350,10,6.3
+allopurinol,levothyroxine sodium,10,1.9
+fluconazole,ondansetron hydrochloride,10,4.9
+apixaban,oxycodone,10,3.8
+nebivolol,spironolactone,10,16.1
+cyclophosphamide for injection,mycophenolate mofetil,10,3.1
+apixaban,dapagliflozin,10,4.6
+lisinopril,zolpidem tartrate,10,4.6
+aspirin,naproxen,10,2.4
+amlodipine,celecoxib,10,2.9
+lansoprazole,rosuvastatin,10,3.3
+budesonide,montelukast,10,17.6
+albuterol sulfate,pantoprazole sodium,10,2.3
+apixaban,empagliflozin,10,3.7
+methotrexate,rosuvastatin,10,1.4
+bisoprolol fumarate,potassium chloride,10,3.4
+furosemide,hydrochlorothiazide,10,2.3
+magnesium,prednisone,10,1.3
+folic acid,levetiracetam,10,3.4
+cetirizine,prednisone,10,2.7
+adalimumab,cetirizine hydrochloride,10,2.3
+adalimumab,albuterol sulfate,10,1.0
+aspirin,epinephrine,10,2.9
+carvedilol,prednisone,10,1.5
+infliximab,tofacitinib,10,6.6
+montelukast,ondansetron hydrochloride,10,5.3
+potassium chloride,torsemide,10,11.4
+baclofen,gabapentin,10,4.9
+ergocalciferol,progesterone,10,6.0
+apixaban,ondansetron hydrochloride,10,1.4
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",potassium chloride,10,3.9
+cetirizine hydrochloride,vitamin c,10,5.0
+aspirin,fluconazole,10,2.1
+apixaban,famotidine,10,1.9
+atorvastatin calcium,losartan potassium,10,13.7
+clopidogrel,ergocalciferol,10,1.8
+montelukast sodium,omalizumab,10,18.6
+ergocalciferol,ezetimibe,10,2.8
+apixaban,atenolol,10,4.0
+amlodipine besylate,apixaban,10,2.0
+albuterol sulfate,methylprednisolone,10,1.7
+acetaminophen,calcium carbonate,10,3.9
+aspirin,irbesartan,10,2.3
+hydrocortisone,rituximab,10,4.3
+apixaban,lansoprazole,10,2.1
+ergocalciferol,upadacitinib,10,2.2
+cyclosporine,methotrexate,10,4.5
+lenalidomide,potassium chloride,10,2.7
+lenalidomide,prednisone,10,0.6
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",atorvastatin calcium,10,4.0
+azathioprine,ergocalciferol,10,2.4
+ergocalciferol,naproxen,10,2.7
+lisinopril,potassium chloride,10,3.4
+methylprednisolone sodium succinate,prednisone,10,3.8
+folic acid,secukinumab,10,7.3
+empagliflozin,furosemide,10,3.8
+famotidine,loratadine,10,7.9
+baclofen,ergocalciferol,10,3.3
+etoposide,prednisone,10,2.1
+ramipril,simvastatin,10,5.9
+pantoprazole,rosuvastatin,10,1.7
+acetaminophen,carboplatin,10,0.9
+acetaminophen,diazepam,10,2.7
+acetaminophen,fluoxetine hydrochloride,10,2.1
+acetaminophen,lidocaine,10,3.3
+albuterol sulfate,metoprolol tartrate,10,1.8
+famotidine,montelukast sodium,10,5.1
+infliximab,leflunomide,10,9.2
+docusate sodium,ondansetron hydrochloride,10,8.4
+cetirizine hydrochloride,montelukast sodium,10,5.1
+omeprazole,rituximab,10,1.0
+ibuprofen,pantoprazole,10,1.7
+atorvastatin calcium,spironolactone,10,4.7
+atorvastatin calcium,gabapentin,10,2.5
+atorvastatin calcium,metformin,10,2.2
+metformin,vitamin c,10,2.1
+fluticasone propionate,folic acid,10,3.2
+ferrous sulfate,metformin,10,3.9
+baclofen,diazepam,10,16.5
+diazepam,quetiapine,10,6.6
+alprazolam,omeprazole,10,1.7
+adalimumab,azathioprine,10,3.9
+adalimumab,metformin,10,1.0
+ferrous sulfate,omeprazole,10,3.7
+acyclovir,pomalidomide,10,12.5
+fluoxetine hydrochloride,gabapentin,10,2.8
+citalopram,clonazepam,10,7.7
+cyanocobalamin,prednisone,10,3.1
+albuterol sulfate,ferrous sulfate,10,4.1
+amlodipine besylate,dexamethasone,10,1.6
+docusate sodium,omeprazole,10,4.7
+ergocalciferol,estradiol,10,3.5
+acyclovir,pantoprazole sodium,10,4.9
+dexamethasone,lidocaine,10,3.3
+diphenhydramine,pantoprazole,10,5.0
+duloxetine hydrochloride,pantoprazole,10,3.6
+famotidine,metoprolol tartrate,10,4.1
+famotidine,pantoprazole,10,2.5
+furosemide,sodium chloride,10,2.8
+furosemide,metoroprolol tartrate,10,7.4
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",melatonin,10,6.4
+allopurinol,cyclophosphamide for injection,10,2.3
+fluoxetine hydrochloride,propranolol hydrochloride,10,11.1
+acyclovir,pantoprazole,10,2.4
+amlodipine,vitamin c,10,2.3
+budesonide and formoterol fumarate dihydrate,tiotropium bromide,10,37.8
+lisinopril,montelukast sodium,10,3.5
+hydrochlorothiazide,ibuprofen,10,3.4
+metoprolol succinate,potassium chloride,10,8.2
+candesartan,prednisone,10,2.8
+acetaminophen,metoprolol succinate,10,2.7
+carvedilol,hydrochlorothiazide,10,6.7
+magnesium,pantoprazole,10,2.8
+famotidine,omeprazole,10,1.7
+dexamethasone,methylprednisolone,10,1.4
+dupilumab,methylprednisolone,10,3.6
+carboplatin,pertuzumab,10,10.3
+carboplatin,trastuzumab,10,5.5
+furosemide,vitamin c,10,2.3
+budesonide,montelukast sodium,10,11.8
+gabapentin,lidocaine,10,4.4
+atorvastatin calcium,ergocalciferol,10,1.7
+acetaminophen,losartan,10,1.5
+aspirin,finasteride,10,4.2
+fentanyl,propofol,10,29.6
+acetaminophen,sulfasalazine,10,3.8
+acetaminophen,sulfamethoxazole and trimethoprim,10,2.9
+albuterol sulfate,epinephrine,10,4.3
+ergocalciferol,sodium chloride,10,2.0
+magnesium,zinc,10,13.7
+metoprolol tartrate,spironolactone,10,3.7
+pantoprazole,spironolactone,10,2.3
+potassium chloride,spironolactone,10,4.5
+hydroxychloroquine,tocilizumab,10,23.4
+bisoprolol fumarate,levothyroxine sodium,10,1.5
+lansoprazole,levothyroxine sodium,10,2.4
+lansoprazole,pregabalin,10,3.4
+pregabalin,spironolactone,10,2.8
+methotrexate sodium,prednisone,10,3.3
+levothyroxine sodium,quetiapine,10,2.0
+aspirin,nebivolol,10,5.2
+cyclosporine,prednisone,10,2.6
+hydroxychloroquine,prednisolone,10,6.9
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",lenalidomide,10,1.9
+celecoxib,folic acid,10,3.7
+dupilumab,omeprazole,10,1.6
+"acetaminophen, guaifenesin, and phenylephrine hydrochloride",nirmatrelvir and ritonavir,10,1.9
+albuterol sulfate,cyclobenzaprine,10,5.1
+methylprednisolone sodium succinate,rituximab,10,8.5
+cyclophosphamide for injection,paclitaxel,10,2.8
+lorazepam,metoclopramide,10,13.0
+aspirin,meloxicam,10,2.7
+bisoprolol fumarate,rosuvastatin,10,2.1
+copper,lisinopril,10,0.5
+copper,folic acid,10,0.4
+acetaminophen,bisoprolol fumarate,10,1.1
+elagolix,ibuprofen,10,13.2
+copper,montelukast sodium,10,0.8
